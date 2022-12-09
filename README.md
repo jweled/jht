@@ -1,4 +1,4 @@
 # jht
 Java-based Hexadecimal Tool
 
-To download, see [releases](main/releases)
+To download, see [releases](releases)
